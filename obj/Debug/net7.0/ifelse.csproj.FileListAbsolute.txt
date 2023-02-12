@@ -1,0 +1,15 @@
+C:\Pratikler\ifelse\obj\Debug\net7.0\ifelse.csproj.AssemblyReference.cache
+C:\Pratikler\ifelse\obj\Debug\net7.0\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\ifelse\obj\Debug\net7.0\ifelse.AssemblyInfoInputs.cache
+C:\Pratikler\ifelse\obj\Debug\net7.0\ifelse.AssemblyInfo.cs
+C:\Pratikler\ifelse\obj\Debug\net7.0\ifelse.csproj.CoreCompileInputs.cache
+C:\Pratikler\ifelse\bin\Debug\net7.0\ifelse.exe
+C:\Pratikler\ifelse\bin\Debug\net7.0\ifelse.deps.json
+C:\Pratikler\ifelse\bin\Debug\net7.0\ifelse.runtimeconfig.json
+C:\Pratikler\ifelse\bin\Debug\net7.0\ifelse.dll
+C:\Pratikler\ifelse\bin\Debug\net7.0\ifelse.pdb
+C:\Pratikler\ifelse\obj\Debug\net7.0\ifelse.dll
+C:\Pratikler\ifelse\obj\Debug\net7.0\refint\ifelse.dll
+C:\Pratikler\ifelse\obj\Debug\net7.0\ifelse.pdb
+C:\Pratikler\ifelse\obj\Debug\net7.0\ifelse.genruntimeconfig.cache
+C:\Pratikler\ifelse\obj\Debug\net7.0\ref\ifelse.dll
